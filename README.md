@@ -1,6 +1,7 @@
 # politecnicodcol-c578
 NanoDegree Program
-### Politécnico de Colombia
+
+Politécnico de Colombia  
 Diplomado virtual en Programación en Java.
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2024  
