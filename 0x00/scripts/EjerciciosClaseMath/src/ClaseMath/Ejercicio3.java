@@ -2,20 +2,17 @@ package ClaseMath;
 
 public class Ejercicio3 {
   public static void main(String[] args) {
-    long nota1 = getNum();
-    long nota2 = getNum();
-    long nota3 = getNum();
-    long nota4 = getNum();
-    long nota5 = getNum();
-    System.out.println(nota1);
-    System.out.println(nota2);
-    System.out.println(nota3);
-    System.out.println(nota4);
-    System.out.println(nota5);
+    double nota1 = (int) getNum();
+    double nota2 = (int) getNum();
+    double nota3 = (int) getNum();
+    double nota4 = (int) getNum();
+    double nota5 = (int) getNum();
+    double promedio = (nota1 + nota2 + nota3 + nota4 + nota5) / 5;
+    System.out.println("Nota 1: " + nota1 + "\nNota 2: " + nota2 +
+        "\nNota 3: " + nota3 + "\nNota 4: " + nota4 + "\nNota 5: " + nota5 + "\n----------\nPromedio: " + promedio);
   }
 
-  static private long getNum() {
-    double x = Math.random() * 10;
-    return Math.round(x);
+  static private double getNum() {
+    return Math.random() * 10;
   }
 }
