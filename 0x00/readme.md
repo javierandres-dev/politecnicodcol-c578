@@ -14,7 +14,10 @@
 ## Exercises
 * [Math](./docs/Ejercicios-Clase-Math.pdf)
   - [Solution](./docs/Solucion-Ejercicios-Clase-Math.pdf)
+  - [My Solution](./scripts/EjerciciosClaseMath/src/ClaseMath/)
 * [Operations](./docs/Ejercicios-Operaciones.pdf)
   - [Solution](./docs/Solucion-Ejercicios-Operaciones.pdf)
+  - [My Solution](./scripts/EjerciciosOperadores/src/ClasesOperadores/)
 * [Variables](./docs/Ejercicios-Variables.pdf)
   - [Solution](./docs/Solucion-Ejercicios-Variables.pdf)
+  - [My Solution](./scripts/EjerciciosVariables/src/ClasesVariables/)
