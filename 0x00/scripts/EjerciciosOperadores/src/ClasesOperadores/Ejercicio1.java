@@ -1,3 +1,12 @@
+/*
+ * Realizar los siguientes pasos en su respectivo orden:
+ * - Crear una variable para almacenar el nombre de un estudiante.
+ * - Crear 5 variables de tipo double para almacenar 5 diferentes notas
+ * decimales.
+ * - Calcular el promedio final del estudiante a partir de las 5 notas
+ * decimales.
+ * - Mostrar el resultado y el nombre del estudiante.
+ */
 package ClasesOperadores;
 
 public class Ejercicio1 {

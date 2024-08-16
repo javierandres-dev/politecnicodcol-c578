@@ -1,3 +1,4 @@
+// Hacer correcciones de acuerdo a las características vistas.
 package ClasesVariables;
 
 public class Ejercicio2 {

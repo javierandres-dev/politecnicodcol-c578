@@ -1,3 +1,20 @@
+/*
+ * Realizar los siguientes pasos en su respectivo orden.
+ * - Crear una variable entera llamada “ladoCuadrado” de valor 8.
+ * - Calcular el área y el perímetro del cuadrado a partir de la variable
+ * anteriormente creada.
+ * - Crear una variable entera llamada “baseTriangulo” de valor 9.
+ * - Crear una variable entera llamada “alturaTriangulo” de valor 8.
+ * - Crear dos variables enteras llamadas “ladoUnoTriangulo” y
+ * “ladoDosTriangulo” de valor 8 ambas.
+ * - Calcular el área y el perímetro del triángulo a partir de variables
+ * anteriormente creadas.
+ * - Crear una variable entera llamada “baseRectangulo” de valor 8.
+ * - Crear una variable entera llamada “alturaRectangulo” de valor 6.
+ * - Calcular el área y el perímetro del rectángulo a partir de variables
+ * anteriormente creadas.
+ * - Mostrar el resultado de las operaciones.
+ */
 package ClasesOperadores;
 
 public class Ejercicio6 {
