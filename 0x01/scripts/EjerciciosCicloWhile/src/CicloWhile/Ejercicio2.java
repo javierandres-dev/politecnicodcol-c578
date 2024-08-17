@@ -2,7 +2,7 @@
  * Desarrollar un programa que determine si una palabra establecida
  * previamente es o no palíndroma.
  */
-package ClasesWhile;
+package CicloWhile;
 
 public class Ejercicio2 {
   public static void main(String[] args) {

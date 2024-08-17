@@ -2,7 +2,7 @@
  * Desarrollar un programa que determine los divisores de un número definido
  * previamente.
  */
-package ClasesFor;
+package CicloFor;
 
 public class Ejercicio2 {
   public static void main(String[] args) {

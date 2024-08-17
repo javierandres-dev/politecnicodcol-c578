@@ -3,7 +3,7 @@
  * 11 – 22 – 33 – 44.
  * Debe mostrar únicamente los primeros 25 valores de la serie.
  */
-package ClasesWhile;
+package CicloWhile;
 
 public class Ejercicio4 {
   public static void main(String[] args) {

@@ -8,7 +8,7 @@
  * - Hallar la factorial.
  * - Definir si es un número perfecto.
  */
-package ClasesFor;
+package CicloFor;
 
 public class Ejercicio4 {
   public static void main(String[] args) {

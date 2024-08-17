@@ -8,7 +8,7 @@
  * nostra fermentum laoreet aliquet aptent est.  Platea non proin aliquet
  * scelerisque nam maecenas elit cum.”
  */
-package ClasesWhile;
+package CicloWhile;
 
 public class Ejercicio3 {
   public static void main(String[] args) {

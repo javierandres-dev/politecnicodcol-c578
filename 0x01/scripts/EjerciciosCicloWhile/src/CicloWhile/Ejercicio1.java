@@ -2,7 +2,7 @@
  * Desarrolla un programa que permita invertir la palabra “Programación”.
  * El resultado debe ser “nóicamargorP”.
  */
-package ClasesWhile;
+package CicloWhile;
 
 public class Ejercicio1 {
   public static void main(String[] args) {

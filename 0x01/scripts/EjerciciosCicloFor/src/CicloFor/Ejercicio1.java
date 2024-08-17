@@ -2,7 +2,7 @@
  * Desarrolla un programa que permita mostrar el factorial de un número
  * definido previamente.
  */
-package ClasesFor;
+package CicloFor;
 
 public class Ejercicio1 {
   public static void main(String[] args) {

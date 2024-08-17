@@ -2,7 +2,7 @@
  * Desarrollar un programa que permita definir si un número entero ya
  * establecido es un número perfecto o no.
  */
-package ClasesFor;
+package CicloFor;
 
 public class Ejercicio3 {
   public static void main(String[] args) {
