@@ -22,4 +22,4 @@
   - [My Solution](./scripts/EjerciciosSwitchCase/src/SwitchCase/)
 * [Vectors](./docs/EjerciciosVectores.pdf)
   - [Solution](./docs/SolucionEjerciciosVectores.pdf)
-  - [My Solution](./scripts)
+  - [My Solution](./scripts/EjerciciosVectores/src/Vectores/)
