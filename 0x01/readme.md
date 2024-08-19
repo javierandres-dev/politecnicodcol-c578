@@ -16,7 +16,7 @@
   - [My Solution](./scripts/EjerciciosCondicionalesSimples/src/CondicionalesSimples/)
 * [Matrices](./docs/EjerciciosMatrices.pdf)
   - [Solution](./docs/SolucionEjerciciosMatrices.pdf)
-  - [My Solution](./scripts)
+  - [My Solution](./scripts/EjerciciosMatrices/src/Matrices/)
 * [Switch Case](./docs/EjerciciosSwitchCase.pdf)
   - [Solution](./docs/SolucionEjerciciosSwitchCase.pdf)
   - [My Solution](./scripts/EjerciciosSwitchCase/src/SwitchCase/)
