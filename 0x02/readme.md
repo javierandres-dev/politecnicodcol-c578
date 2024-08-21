@@ -8,7 +8,7 @@
 ## Exercises
 * [ClasesAttributesConstructors](./docs/EjerciciosClasesAtributosConstructores.pdf)
   - [Solution](./docs/SolucionEjerciciosClasesAtributosConstructores.pdf)
-  - [My Solution](#)
+  - [My Solution](./scripts/)
 * [Object Oriented Programming](./docs/EjerciciosProgramacionOrientadaAObjetos.pdf)
   - [Solution](./docs/SolucionEjerciciosProgramacionOrientadaAObjetos.pdf)
   - [My Solution](#)
