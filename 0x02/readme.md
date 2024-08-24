@@ -11,4 +11,4 @@
   - [My Solution](./scripts/)
 * [Object Oriented Programming](./docs/EjerciciosProgramacionOrientadaAObjetos.pdf)
   - [Solution](./docs/SolucionEjerciciosProgramacionOrientadaAObjetos.pdf)
-  - [My Solution](#)
+  - [My Solution](./scripts/)
