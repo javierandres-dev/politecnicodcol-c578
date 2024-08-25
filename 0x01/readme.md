@@ -1,25 +1,29 @@
-# 0x01 Module 2
-## Resources
-- [Guide](./docs/GD2-Java.pdf)
-## Exercises
-* [Cicle For](./docs/EjerciciosCicloFor.pdf)
-  - [Solution](./docs/SolucionEjerciciosCicloFor.pdf)
-  - [My Solution](./scripts/EjerciciosCicloFor/src/CicloFor/)
-* [Cicle While](./docs/EjerciciosCicloWhile.pdf)
-  - [Solution](./docs/SolucionEjerciciosCicloWhile.pdf)
-  - [My Solution](./scripts/EjerciciosCicloWhile/src/CicloWhile/)
-* [Complex Conditionals](./docs/EjerciciosCondicionalesComplejas.pdf)
-  - [Solution](./docs/SolucionEjerciciosCondicionalesComplejas.pdf)
-  - [My Solution](./scripts/EjerciciosCondicionalesComplejas/src/CondicionalesComplejas/)
-* [Simple Conditionals](./docs/EjerciciosCondicionalesSimples.pdf)
-  - [Solution](./docs/SolucionEjerciciosCondicionalesSimples.pdf)
-  - [My Solution](./scripts/EjerciciosCondicionalesSimples/src/CondicionalesSimples/)
+# 0x01 Módulo 2
+Estructuras de iteración, condición y vectores
+## Recursos
+- [Guía](./docs/GD2-Java.pdf)
+## Ejercicios
+* [Ciclo For](./docs/EjerciciosCicloFor.pdf)
+  - [Solución](./docs/SolucionEjerciciosCicloFor.pdf)
+  - [Mi solución](./scripts/EjerciciosCicloFor/src/CicloFor/)
+* [Ciclo While](./docs/EjerciciosCicloWhile.pdf)
+  - [Solución](./docs/SolucionEjerciciosCicloWhile.pdf)
+  - [Mi solución](./scripts/EjerciciosCicloWhile/src/CicloWhile/)
+* [Condicionales Complejas](./docs/EjerciciosCondicionalesComplejas.pdf)
+  - [Solución](./docs/SolucionEjerciciosCondicionalesComplejas.pdf)
+  - [Mi solución](./scripts/EjerciciosCondicionalesComplejas/src/CondicionalesComplejas/)
+* [Condicionales Simples](./docs/EjerciciosCondicionalesSimples.pdf)
+  - [Solución](./docs/SolucionEjerciciosCondicionalesSimples.pdf)
+  - [Mi solución](./scripts/EjerciciosCondicionalesSimples/src/CondicionalesSimples/)
 * [Matrices](./docs/EjerciciosMatrices.pdf)
-  - [Solution](./docs/SolucionEjerciciosMatrices.pdf)
-  - [My Solution](./scripts/EjerciciosMatrices/src/Matrices/)
+  - [Solución](./docs/SolucionEjerciciosMatrices.pdf)
+  - [Mi solución](./scripts/EjerciciosMatrices/src/Matrices/)
 * [Switch Case](./docs/EjerciciosSwitchCase.pdf)
-  - [Solution](./docs/SolucionEjerciciosSwitchCase.pdf)
-  - [My Solution](./scripts/EjerciciosSwitchCase/src/SwitchCase/)
-* [Vectors](./docs/EjerciciosVectores.pdf)
-  - [Solution](./docs/SolucionEjerciciosVectores.pdf)
-  - [My Solution](./scripts/EjerciciosVectores/src/Vectores/)
+  - [Solución](./docs/SolucionEjerciciosSwitchCase.pdf)
+  - [Mi solución](./scripts/EjerciciosSwitchCase/src/SwitchCase/)
+* [Vectores](./docs/EjerciciosVectores.pdf)
+  - [Solución](./docs/SolucionEjerciciosVectores.pdf)
+  - [Mi solución](./scripts/EjerciciosVectores/src/Vectores/)
+## Software Developer
+Built by [javi](https://github.com/javierandres-dev/) :copyright: 2024  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javierandres-dev/).
